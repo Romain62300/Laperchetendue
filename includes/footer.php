@@ -22,8 +22,11 @@
 
         <div class="footer-bottom-container">
             <p>Copyright 2025 Ville de Lens | 
-                <a href="#" class="footer-link">Mentions légales</a> | 
-                <a href="#" class="footer-link">Gestion des cookies</a>
+            <!--    <a href="#" class="footer-link">Mentions légales</a> | 
+                <a href="#" class="footer-link">Gestion des cookies</a>-->
+                <a href="/la-perche-tendue/public/mentions-legales.php" class="footer-link">Mentions légales</a> | 
+<a href="#" id="gestionCookies" class="footer-link">Gestion des cookies</a>
+<script src="/la-perche-tendue/public/assets/js/cookies.js"></script>
             </p>
         </div>
     </div>
