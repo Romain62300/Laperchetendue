@@ -20,7 +20,9 @@
     <!-- Partie rouge avec le logo, nom et icônes sociales -->
     <div class="top-header">
         <div class="logo">
-            <img src="/la-perche-tendue/public/assets/images/logo.jpg" alt="Logo La Perche Tendue">
+          <!--  <img src="/la-perche-tendue/public/assets/images/logo.jpg" alt="Logo La Perche Tendue">-->
+          <img src="/la-perche-tendue/public/assets/images/logo.jpg" alt="Logo La Perche Tendue">
+
         </div>
         <h1>ASSOCIATION LA PERCHE TENDUE</h1>
         <div class="social-icons">
